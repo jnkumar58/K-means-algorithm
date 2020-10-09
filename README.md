@@ -1,2 +1,1 @@
-# K-means-algorithm
-Implementation of K-means algorithm using Hadoop Map-reduce technique and implemented in Python
+I am editing the README file. Adding some more details about the project description.
